@@ -1,20 +1,22 @@
-### Hi there! I'm Maik! 👋
-
-🔭 I’m currently working on finance and investments.
-👉 I'm currently studying HTML, CSS and Javascript.
-😊 I'm seeking an entry level position.
-🌱 I’m currently learning advanced excel, power bi, power query and programing. 
-👯 I’m looking to collaborate with new teams and new challenges.
-🤔 I’m looking for help with anything I can.
-💬 Ask me about nerd movies, geek tech, games, gym, exercises, health and fit stuff.
-📫 How to reach me: @czarmk on almost any social media.
-😄 Pronouns: he/him.
-⚡ Fun fact: I like tattoos.
-
+### Hi there! I'm Maik! 👋 <br>
+<br>
+🔭 I’m currently working on finance and investments. <br>
+👉 I'm currently studying HTML, CSS and Javascript. <br>
+😊 I'm seeking an entry level position. <br>
+🌱 I’m currently learning advanced excel, power bi, power query and programing. <br>
+👯 I’m looking to collaborate with new teams and new challenges. <br>
+🤔 I’m looking for help with anything I can. <br>
+💬 Ask me about nerd movies, geek tech, games, gym, exercises, health and fit stuff. <br>
+📫 How to reach me: @czarmk on almost any social media. <br>
+😄 Pronouns: he/him. <br>
+⚡ Fun fact: I like tattoos. <br>
+ <br>
+<!--
 <div align="center" dir="auto">
   <a href="https://github.com/czarmk">
   <img height="180em" src="https://camo.githubusercontent.com/8beb02b74f9cc5568b0237a5b9e892c6c390270b26c87e377e06411c7157674e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5261697373614d6f7265697261266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarmk&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
 </a></div>
+-->
 
 <h3 dir="auto"><a href="https://github.com/czarmk"></a><a id="user-content-techs-daily-used" class="anchor" aria-hidden="true" href="#techs-daily-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Techs daily used</h3>
 
